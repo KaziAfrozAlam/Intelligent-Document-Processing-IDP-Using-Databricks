@@ -6,9 +6,17 @@ An exploratory project demonstrating how **Intelligent Document Processing (IDP)
 
 Documents such as invoices, purchase orders, and receipts often contain valuable information in unstructured formats. Extracting this information manually can be time-consuming and difficult to scale.
 
-This project explores an AI-powered document processing workflow in Databricks to ingest PDF files, parse their contents, identify document types, and extract relevant information into structured datasets.
+This project explores an AI-powered Intelligent Document Processing (IDP) workflow using Databricks to ingest PDF files, parse their contents, identify document types, and extract relevant information into structured datasets.
 
-The goal is to make information from unstructured documents easier to process, organize, and use for downstream analytics.
+The goal is to simplify the processing and organization of unstructured documents and make the extracted information available for downstream analytics.
+
+## Objectives
+
+- Explore document ingestion and processing using Databricks.
+- Extract text and relevant information from unstructured documents.
+- Understand AI-assisted document parsing and classification.
+- Transform extracted information into structured data.
+- Explore how automated document processing can reduce manual effort.
 
 ## Technologies Used
 
@@ -74,7 +82,12 @@ Through this project, I explored how Databricks AI capabilities can simplify the
 
 The project provided practical exposure to document ingestion, AI-assisted parsing and classification, content extraction, and structured data transformation.
 
+## Key Takeaways
 
+- Gained practical exposure to AI-powered document processing using Databricks.
+- Explored techniques for extracting meaningful information from unstructured documents.
+- Understood how document content can be transformed into structured data for further analysis.
+- Learned how AI-assisted workflows can simplify document processing and information extraction.
 
 ---
 
