@@ -74,14 +74,7 @@ Through this project, I explored how Databricks AI capabilities can simplify the
 
 The project provided practical exposure to document ingestion, AI-assisted parsing and classification, content extraction, and structured data transformation.
 
-## Learning Resources
 
-- **Reference Video:** [End-to-End IDP Project in Databricks – PDFs to Usable Data in 30 Minutes](https://www.youtube.com/watch?v=jvg60_1JSx0&list=PLUaB-1hjhk8GySkQDgoBEBNQgkrJsbG6o&index=5)
-- **Reference Repository:** [AlexTheAnalyst/DatabricksIDP](https://github.com/AlexTheAnalyst/DatabricksIDP/tree/main)
-
-## Project Status
-
-Exploratory, hands-on learning project based on the referenced Databricks IDP tutorial.
 
 ---
 
